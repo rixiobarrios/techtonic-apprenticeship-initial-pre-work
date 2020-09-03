@@ -17,9 +17,7 @@ I will start making notes on the lessons I have not worked on yet.
 
 ### Introduction to the CSS Grid Challenges
 
-**Title**
-
-Notes:
+Notes: Finished module without incident.
 
 ### Introduction to the ES6 Challenges
 
