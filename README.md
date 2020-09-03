@@ -21,6 +21,14 @@ Notes: Finished module without incident.
 
 ### Introduction to the ES6 Challenges
 
+**Set Default Parameters for Your Function**
+
+Notes: It was not cleared to me as to what to do in terms of syntax with this exercise. My answer seem to resemble that of the example, but I was missing something. Looked at the Help "get a hint" section and realized I already tried the correct syntax but it did not work for some reason. Perhaps I was missing a comma or a semi-colon?
+
+**Use the Rest Parameter with Function Parameters**
+
+Note: I was a bit confused with the syntax and what the exercise was asking for, so after reading the exercise a few times over I went to the web and found something useful [here](https://www.youtube.com/watch?v=45tyvrHukUc)
+
 **Title**
 
 Notes:
