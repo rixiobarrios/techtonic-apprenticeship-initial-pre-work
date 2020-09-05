@@ -1,6 +1,6 @@
 ![techtonic](https://user-images.githubusercontent.com/55994508/91937200-0c6f1c00-ecb7-11ea-96e4-1836bfca0056.jpg)
 
-## Which freeCodeCamp lessons were most difficult for you and why? Please be as in-depth as possible.There is no limit to the number of responses or lessons mentioned. We have provided you with the template below and expect you to format any additional entries in the same way, so simply copy and paste the following three lines for each lesson you struggled with, change the subject title and the lesson title, and fill out your answers under the lessons you struggled with below:
+## APPRENTICESHIP TRAINING CLASS PRE-WORK ASSIGNMENT
 
 I have an existing Freecodecamp account since 09/09/19 [here](https://www.freecodecamp.org/rixiobarrios)
 
