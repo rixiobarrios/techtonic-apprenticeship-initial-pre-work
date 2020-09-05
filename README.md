@@ -29,6 +29,18 @@ Notes: It was not cleared to me as to what to do in terms of syntax with this ex
 
 Note: I was a bit confused with the syntax and what the exercise was asking for, so after reading the exercise a few times over I went to the web and found something useful [here](https://www.youtube.com/watch?v=45tyvrHukUc)
 
+**Use Destructuring Assignment to Assign Variables from Objects**
+
+Note: I commented out the previous ES5 syntax and it was giving me an error, so I just deleted it and left my answer alone. Had to watch [this](https://www.youtube.com/watch?v=exLPAbmucD0&ab_channel=UsefulProgrammer) video to figure it out.
+
+**Use Destructuring Assignment to Assign Variables from Arrays**
+
+Note: The concept was somewhat abstract to me so I had to watch [this](https://www.youtube.com/watch?v=XjcsoWdEPmQ&ab_channel=WeWillCode) video to understand it better.
+
+**Create Strings using Template Literals**
+
+Note: I was having trouble understanding why they were using the same variable names in two instances, a global and a local one. I had to watch [this](https://www.youtube.com/watch?v=vL6cf3hLpzQ&ab_channel=OmarShishani) to clear my confusion.
+
 **Title**
 
 Notes:
