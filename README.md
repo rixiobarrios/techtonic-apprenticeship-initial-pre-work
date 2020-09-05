@@ -10,14 +10,14 @@ I have previously completed the modules marked with [x]:
 2. Introduction to Basic CSS [x]44/44
 3. Introduction to the CSS Flexbox Challenges [x]17/17
 4. Introduction to the CSS Grid Challenges [ ]0/22
-5. Introduction to Javascript [x]110/110
+5. Introduction to Javascript [x]111/111
 6. Introduction to the ES6 Challenges [ ]0/31
 
 I will start making notes on the lessons I have not worked on yet.
 
 ### Introduction to the CSS Grid Challenges
 
-Notes: Finished module without incident.
+Notes: Finished module without incident [x]22/22
 
 ### Introduction to the ES6 Challenges
 
@@ -41,6 +41,12 @@ Note: The concept was somewhat abstract to me so I had to watch [this](https://w
 
 Note: I was having trouble understanding why they were using the same variable names in two instances, a global and a local one. I had to watch [this](https://www.youtube.com/watch?v=vL6cf3hLpzQ&ab_channel=OmarShishani) to clear my confusion.
 
-**Title**
+**Use getters and setters to Control Access to an Object**
 
-Notes:
+Note: Missed the formula on the return for celsius. Figured it out by watching [this](https://www.youtube.com/watch?v=VftR1YePDOc&ab_channel=WeWillCode) informative video to realize my simple mistake.
+
+**Introduction to the ES6 Challenges**
+
+Notes: Finished with a few challenges noted above [x]31/31
+
+I have finished all the modules left as of 09/04/2020 9:53 PM
