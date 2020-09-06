@@ -32,3 +32,10 @@ html {
     background: #aaa;
     height: 100%;
 }
+/* Found on css-tricks.com */
+.isDisabled {
+    color: currentColor;
+    cursor: not-allowed;
+    opacity: 0.5;
+    text-decoration: none;
+}
