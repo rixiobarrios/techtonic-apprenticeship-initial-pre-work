@@ -45,4 +45,13 @@ Note: Missed the formula on the return for celsius. Figured it out by watching [
 
 # MOCK-UP EXERCISE
 
+This is the planning document for the _"About Me"_ page exercise provided by [Techtonic](https://www.techtonic.com/) in order to advance through their apprenticeship selection process. 
 
+**General Page Layout Requirements**
+ - Must contain two side by side columns [x]
+ - Header and footer that span through the entire document [x]
+ - Use only HTML5 and CSS (_no Javascript or JQuery_) [x]
+ - One unordered list in at least one column with a minimum of five items [x]
+ - One image that takes no more than 25% of the page [x]
+ - One link to an outside source related to the chosen topic [x]
+ - Write semantic HTML on the index.html file [x]
