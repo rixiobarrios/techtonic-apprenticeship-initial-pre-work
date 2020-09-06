@@ -42,3 +42,7 @@ Note: Missed the formula on the return for celsius. Figured it out by watching [
 ### Notes: Finished with a few challenges noted above [x]31/31
 
 ### I have finished all the modules left as of 09/04/2020 9:53 PM
+
+# MOCK-UP EXERCISE
+
+
