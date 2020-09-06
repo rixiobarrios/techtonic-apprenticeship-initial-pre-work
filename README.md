@@ -55,3 +55,14 @@ This is the planning document for the _"About Me"_ page exercise provided by [Te
  - One image that takes no more than 25% of the page [x]
  - One link to an outside source related to the chosen topic [x]
  - Write semantic HTML on the index.html file [x]
+
+ **Wireframe**
+
+ ![mock-up exercise wireframe](https://user-images.githubusercontent.com/55994508/92336251-34b69c00-f064-11ea-8750-fa357da27029.png)
+
+ **Building**
+
+ ![building](https://user-images.githubusercontent.com/55994508/92336274-7ba49180-f064-11ea-9ed5-c430e50a0f4f.png)
+
+ 
+
