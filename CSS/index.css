@@ -2,9 +2,8 @@ body,
 html {
     padding: 0;
     margin: 0;
-    position: relative;
-    height: 100%;
 }
+
 .header,
 .footer {
     width: 100%;
@@ -12,25 +11,34 @@ html {
     padding: 10px;
     box-sizing: border-box;
 }
-.container {
-    background: #eee;
-    width: 100%;
-    padding: 10px;
-    height: 100%;
-    box-sizing: border-box;
-    padding: 10px;
+
+img {
+    height: 20vh;
 }
+
+/* h1,
+p {
+    margin: 0 0 1em 0;
+} */
+
+.wrapper {
+    height: 100vh;
+}
+
 .sidebar {
-    width: 50%;
+    width: 20%;
+    height: 100vh;
+    /* width: 100vw; */
     float: left;
     background: #bbb;
-    height: 100%;
 }
+
 .content {
-    width: 50%;
+    width: 80%;
+    height: 100vh;
+    /* width: 100vw; */
     float: right;
     background: #aaa;
-    height: 100%;
 }
 /* Found on css-tricks.com */
 .isDisabled {
@@ -38,4 +46,9 @@ html {
     cursor: not-allowed;
     opacity: 0.5;
     text-decoration: none;
+}
+
+.footer {
+    clear: both;
+    margin: 0;
 }
