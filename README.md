@@ -77,6 +77,22 @@ This is the planning document for the _"About Me"_ page exercise provided by [Te
 
 **Final Rendering**
 
+![Screen Shot 2020-09-07 at 10 24 56 PM](https://user-images.githubusercontent.com/55994508/92430214-c522d880-f159-11ea-83ba-6fcb9ac254d7.png)
 
+**Difficulties**
 
+For this project I was able to advance without many issues, up to the point where I had to fit the whole contents of the container without any gaps. Also, I had issues making the website render everything in one page with no scrolling required.
 
+**Attributions**
+
+-   [W3 Schools](https://www.w3shools.com)
+-   [FreeCodeCamp](https://www.freecodecamp.org)
+-   [Home and Learn](https://www.homeandlearn.co.uk)
+-   [Stack Overflow](https://www.stackoverflow.com)
+-   [CSS Tricks](https://www.css-tricks.com)
+-   [Free CSS](https://www.free-css.com)
+-   [W3C](https://www.w3.org)
+-   [MDN Web Docs](https://developer.mozilla.org/en-US/)
+-   [TRT World](https://www.trtworld.com)
+-   [Biography](https://www.biography.com)
+-   [Your Dictionary](https://biography.yourdictionary.com)
