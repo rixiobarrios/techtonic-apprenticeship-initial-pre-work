@@ -76,3 +76,5 @@ This is the planning document for the _"About Me"_ page exercise provided by [Te
 ![more building](https://user-images.githubusercontent.com/55994508/92336772-da203e80-f069-11ea-963a-d2c776bef1cc.png)
 
 **Advance Draft**
+
+
