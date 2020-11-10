@@ -2,6 +2,8 @@
 
 # APPRENTICESHIP TRAINING CLASS PRE-WORK ASSIGNMENT
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/221f9c25-49b4-440e-8b02-fa18a03b9a8e/deploy-status)](https://app.netlify.com/sites/mock-up-exercise/deploys)
+
 I have an existing Freecodecamp account since 09/09/19 [here](https://www.freecodecamp.org/rixiobarrios)
 
 I have previously completed the modules marked with [x]:
